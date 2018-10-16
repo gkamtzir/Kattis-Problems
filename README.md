@@ -3,4 +3,8 @@
 runLengthEncoding.py -> [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun)<br />
 reverseRot.py -> [Reverse Rot](https://open.kattis.com/problems/reverserot)<br />
 sibice.py -> [Sibice](https://open.kattis.com/problems/sibice)<br />
-takeTwoStones.py -> [Take Two Stones](https://open.kattis.com/problems/twostones)
+takeTwoStones.py -> [Take Two Stones](https://open.kattis.com/problems/twostones)<br />
+apaxiaaaaaaas.py -> [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)<br />
+cetvrta.py -> [Cetvrta](https://open.kattis.com/problems/cetvrta)<br />
+tarifa.py -> [Tarifa](https://open.kattis.com/problems/tarifa)<br />
+hissing.py -> [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
