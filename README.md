@@ -13,4 +13,5 @@ timeLoop.py -> [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)
 carrots.py -> [Solving for Carrots](https://open.kattis.com/problems/carrots)<br />
 faktor.py -> [Faktor](https://open.kattis.com/problems/faktor)<br />
 quadrantSelection.py -> [Quadrant Selection](https://open.kattis.com/problems/quadrant)<br />
-autori.py -> [Autori](https://open.kattis.com/problems/autori)
+autori.py -> [Autori](https://open.kattis.com/problems/autori)<br />
+bijele.py -> [Bijele](https://open.kattis.com/problems/bijele)
