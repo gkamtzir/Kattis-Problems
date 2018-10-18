@@ -11,4 +11,8 @@ hissing.py -> [Hissing Microphone](https://open.kattis.com/problems/hissingmicro
 kornislav.py -> [Kornislav](https://open.kattis.com/problems/kornislav)<br />
 timeLoop.py -> [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)<br />
 carrots.py -> [Solving for Carrots](https://open.kattis.com/problems/carrots)<br />
-faktor.py -> [Faktor](https://open.kattis.com/problems/faktor)
+faktor.py -> [Faktor](https://open.kattis.com/problems/faktor)<br />
+quadrantSelection.py -> [Quadrant Selection](https://open.kattis.com/problems/quadrant)<br />
+autori.py -> [Autori](https://open.kattis.com/problems/autori)<br />
+bijele.py -> [Bijele](https://open.kattis.com/problems/bijele)<br />
+r2.py -> [R2](https://open.kattis.com/problems/r2)
