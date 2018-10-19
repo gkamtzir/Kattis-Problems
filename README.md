@@ -17,4 +17,5 @@ autori.py -> [Autori](https://open.kattis.com/problems/autori)<br />
 bijele.py -> [Bijele](https://open.kattis.com/problems/bijele)<br />
 r2.py -> [R2](https://open.kattis.com/problems/r2)<br />
 list_game.py -> [A List Game](https://open.kattis.com/problems/listgame)<br />
-bus_numbers.py -> [Bus Numbers](https://open.kattis.com/problems/busnumbers2)
+bus_numbers.py -> [Bus Numbers](https://open.kattis.com/problems/busnumbers2)<br />
+in_or_out.py -> [In Or Out](https://open.kattis.com/problems/mandelbrot)
