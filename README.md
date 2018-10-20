@@ -21,4 +21,5 @@ bus_numbers.py -> [Bus Numbers](https://open.kattis.com/problems/busnumbers2)<br
 in_or_out.py -> [In Or Out](https://open.kattis.com/problems/mandelbrot)<br />
 dice_cup.py -> [Dice Cup](https://open.kattis.com/problems/dicecup)<br />
 4_thought.py -> [4 thought](https://open.kattis.com/problems/4thought)<br />
-primary_arithmetic.py -> [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic)
+primary_arithmetic.py -> [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic)<br />
+fizz_buzz.py -> [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)
