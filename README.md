@@ -25,4 +25,5 @@ primary_arithmetic.py -> [Primary Arithmetic](https://open.kattis.com/problems/p
 fizz_buzz.py -> [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)<br />
 cold_puter.py -> [Cold-puter Science](https://open.kattis.com/problems/cold)<br />
 datum.py -> [Datum](https://open.kattis.com/problems/datum)<br />
-spavanac.py -> [Spavanac](https://open.kattis.com/problems/spavanac)
+spavanac.py -> [Spavanac](https://open.kattis.com/problems/spavanac)<br />
+oddities.py -> [Oddities](https://open.kattis.com/problems/oddities)
