@@ -23,4 +23,8 @@ dice_cup.py -> [Dice Cup](https://open.kattis.com/problems/dicecup)<br />
 4_thought.py -> [4 thought](https://open.kattis.com/problems/4thought)<br />
 primary_arithmetic.py -> [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic)<br />
 fizz_buzz.py -> [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)<br />
-cold_puter.py -> [Cold-puter Science](https://open.kattis.com/problems/cold)
+cold_puter.py -> [Cold-puter Science](https://open.kattis.com/problems/cold)<br />
+datum.py -> [Datum](https://open.kattis.com/problems/datum)<br />
+spavanac.py -> [Spavanac](https://open.kattis.com/problems/spavanac)<br />
+oddities.py -> [Oddities](https://open.kattis.com/problems/oddities)<br />
+pot.py -> [Pot](https://open.kattis.com/problems/pot)
