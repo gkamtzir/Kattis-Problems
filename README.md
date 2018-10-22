@@ -27,4 +27,7 @@ cold_puter.py -> [Cold-puter Science](https://open.kattis.com/problems/cold)<br 
 datum.py -> [Datum](https://open.kattis.com/problems/datum)<br />
 spavanac.py -> [Spavanac](https://open.kattis.com/problems/spavanac)<br />
 oddities.py -> [Oddities](https://open.kattis.com/problems/oddities)<br />
-pot.py -> [Pot](https://open.kattis.com/problems/pot)
+pot.py -> [Pot](https://open.kattis.com/problems/pot)< br/>
+luhn_checksum.py -> [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)<br />
+odd_gnome.py -> [Odd Gnome](https://open.kattis.com/problems/oddgnome)<br />
+false_sense_of_security.py -> [False Sense of Security](https://open.kattis.com/problems/falsesecurity)
