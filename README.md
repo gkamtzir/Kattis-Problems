@@ -30,4 +30,6 @@ oddities.py -> [Oddities](https://open.kattis.com/problems/oddities)<br />
 pot.py -> [Pot](https://open.kattis.com/problems/pot)< br/>
 luhn_checksum.py -> [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)<br />
 odd_gnome.py -> [Odd Gnome](https://open.kattis.com/problems/oddgnome)<br />
-false_sense_of_security.py -> [False Sense of Security](https://open.kattis.com/problems/falsesecurity)
+false_sense_of_security.py -> [False Sense of Security](https://open.kattis.com/problems/falsesecurity)<br />
+compound_words.py -> [Compound Words](https://open.kattis.com/problems/compoundwords)<br />
+disastrous_doubling.py -> [Disastrous Doubling](https://open.kattis.com/problems/disastrousdoubling)
