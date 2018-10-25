@@ -34,4 +34,6 @@ false_sense_of_security.py -> [False Sense of Security](https://open.kattis.com/
 compound_words.py -> [Compound Words](https://open.kattis.com/problems/compoundwords)<br />
 disastrous_doubling.py -> [Disastrous Doubling](https://open.kattis.com/problems/disastrousdoubling)<br />
 secret_santa.py -> [Secret Santa](https://open.kattis.com/problems/secretsanta)<br />
-putovanje.py -> [Putovanje](https://open.kattis.com/problems/putovanje)
+putovanje.py -> [Putovanje](https://open.kattis.com/problems/putovanje)<br />
+saxophone.py -> [Eb Alto Saxophone Player](https://open.kattis.com/problems/saxophone)<br />
+artichokes.py -> [Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)
