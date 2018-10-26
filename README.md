@@ -36,4 +36,5 @@ disastrous_doubling.py -> [Disastrous Doubling](https://open.kattis.com/problems
 secret_santa.py -> [Secret Santa](https://open.kattis.com/problems/secretsanta)<br />
 putovanje.py -> [Putovanje](https://open.kattis.com/problems/putovanje)<br />
 saxophone.py -> [Eb Alto Saxophone Player](https://open.kattis.com/problems/saxophone)<br />
-artichokes.py -> [Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)
+artichokes.py -> [Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)<br />
+adding_words.py -> [Adding Words](https://open.kattis.com/problems/addingwords)
