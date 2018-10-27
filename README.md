@@ -40,4 +40,5 @@ artichokes.py -> [Amalgamated Artichokes](https://open.kattis.com/problems/artic
 adding_words.py -> [Adding Words](https://open.kattis.com/problems/addingwords)<br />
 aah.py -> [Aaah!](https://open.kattis.com/problems/aaah)<br />
 distances.py -> [Different Distances](https://open.kattis.com/problems/differentdistances)<br />
-retirement.py -> [Saving For Retirement](https://open.kattis.com/problems/savingforretirement)
+retirement.py -> [Saving For Retirement](https://open.kattis.com/problems/savingforretirement)<br />
+skocimis.py -> [Skocimis](https://open.kattis.com/problems/skocimis)
