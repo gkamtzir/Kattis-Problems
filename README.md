@@ -42,4 +42,5 @@ aah.py -> [Aaah!](https://open.kattis.com/problems/aaah)<br />
 distances.py -> [Different Distances](https://open.kattis.com/problems/differentdistances)<br />
 retirement.py -> [Saving For Retirement](https://open.kattis.com/problems/savingforretirement)<br />
 skocimis.py -> [Skocimis](https://open.kattis.com/problems/skocimis)<br />
-prozor.py -> [Prozor](https://open.kattis.com/problems/prozor)
+prozor.py -> [Prozor](https://open.kattis.com/problems/prozor)<br />
+average.py -> [Above Average](https://open.kattis.com/problems/aboveaverage)
