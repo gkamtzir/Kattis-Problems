@@ -45,4 +45,5 @@ skocimis.py -> [Skocimis](https://open.kattis.com/problems/skocimis)<br />
 prozor.py -> [Prozor](https://open.kattis.com/problems/prozor)<br />
 average.py -> [Above Average](https://open.kattis.com/problems/aboveaverage)<br />
 bela.py -> [Bela](https://open.kattis.com/problems/bela)<br />
-abc.py -> [ABC](https://open.kattis.com/problems/abc)
+abc.py -> [ABC](https://open.kattis.com/problems/abc)<br />
+one_chicken.py -> [One Chicken Per Person!](https://open.kattis.com/problems/onechicken)
