@@ -49,4 +49,5 @@ abc.py -> [ABC](https://open.kattis.com/problems/abc)<br />
 one_chicken.py -> [One Chicken Per Person!](https://open.kattis.com/problems/onechicken)<br />
 alice_digital.py -> [Alice in the Digital World](https://open.kattis.com/problems/alicedigital)<br />
 average_speed.py -> [Average Speed](https://open.kattis.com/problems/averagespeed)<br />
-akcija.py -> [Akcija](https://open.kattis.com/problems/akcija)
+akcija.py -> [Akcija](https://open.kattis.com/problems/akcija)<br />
+different.py -> [A Different Problem](https://open.kattis.com/problems/different)
