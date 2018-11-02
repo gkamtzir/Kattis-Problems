@@ -51,4 +51,5 @@ alice_digital.py -> [Alice in the Digital World](https://open.kattis.com/problem
 average_speed.py -> [Average Speed](https://open.kattis.com/problems/averagespeed)<br />
 akcija.py -> [Akcija](https://open.kattis.com/problems/akcija)<br />
 different.py -> [A Different Problem](https://open.kattis.com/problems/different)<br />
-amsterdam_distance.py -> [Amsterdam Distance](https://open.kattis.com/problems/amsterdamdistancehttps://open.kattis.com/problems/amsterdamdistance)
+amsterdam_distance.py -> [Amsterdam Distance](https://open.kattis.com/problems/amsterdamdistancehttps://open.kattis.com/problems/amsterdamdistance)<br />
+new_alphabet.py -> [A New Alphabet](https://open.kattis.com/problems/anewalphabet)
