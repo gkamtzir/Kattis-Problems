@@ -52,4 +52,6 @@ average_speed.py -> [Average Speed](https://open.kattis.com/problems/averagespee
 akcija.py -> [Akcija](https://open.kattis.com/problems/akcija)<br />
 different.py -> [A Different Problem](https://open.kattis.com/problems/different)<br />
 amsterdam_distance.py -> [Amsterdam Distance](https://open.kattis.com/problems/amsterdamdistancehttps://open.kattis.com/problems/amsterdamdistance)<br />
-new_alphabet.py -> [A New Alphabet](https://open.kattis.com/problems/anewalphabet)
+new_alphabet.py -> [A New Alphabet](https://open.kattis.com/problems/anewalphabet)<br />
+judging_moose.py -> [Judging Moose](https://open.kattis.com/problems/judgingmoose)<br />
+anagram_counting.py -> [Anagram Counting](https://open.kattis.com/problems/anagramcounting)
