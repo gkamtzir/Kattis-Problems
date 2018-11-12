@@ -57,4 +57,5 @@ new_alphabet.py -> [A New Alphabet](https://open.kattis.com/problems/anewalphabe
 judging_moose.py -> [Judging Moose](https://open.kattis.com/problems/judgingmoose)<br />
 anagram_counting.py -> [Anagram Counting](https://open.kattis.com/problems/anagramcounting)<br />
 playfair_cipher.py -> [Playfair Cipher](https://open.kattis.com/problems/playfair)<br />
-backspace.py -> [Backspace](https://open.kattis.com/problems/backspace)
+backspace.py -> [Backspace](https://open.kattis.com/problems/backspace)<br />
+modulo.py -> [Modulo](https://open.kattis.com/problems/modulo)
