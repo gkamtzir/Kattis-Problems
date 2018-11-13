@@ -59,4 +59,5 @@ anagram_counting.py -> [Anagram Counting](https://open.kattis.com/problems/anagr
 playfair_cipher.py -> [Playfair Cipher](https://open.kattis.com/problems/playfair)<br />
 backspace.py -> [Backspace](https://open.kattis.com/problems/backspace)<br />
 modulo.py -> [Modulo](https://open.kattis.com/problems/modulo)<br />
-sum_problem.py -> [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)
+sum_problem.py -> [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)<br />
+almost_perfect.py -> [Almost Perfect](https://open.kattis.com/problems/almostperfect)
