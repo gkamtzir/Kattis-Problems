@@ -63,4 +63,5 @@ sum_problem.py -> [Sum Kind of Problem](https://open.kattis.com/problems/sumkind
 almost_perfect.py -> [Almost Perfect](https://open.kattis.com/problems/almostperfect)<br />
 grille.py -> [What's on the Grille?](https://open.kattis.com/problems/grille)<br />
 suspension_bridges.py -> [Suspension Bridges](https://open.kattis.com/problems/suspensionbridges)<br />
-closest_sums.py -> [Closest Sums](https://open.kattis.com/problems/closestsums)
+closest_sums.py -> [Closest Sums](https://open.kattis.com/problems/closestsums)<br />
+cetiri.py -> [Cetiri](https://open.kattis.com/problems/cetiri)
