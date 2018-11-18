@@ -62,4 +62,5 @@ modulo.py -> [Modulo](https://open.kattis.com/problems/modulo)<br />
 sum_problem.py -> [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)<br />
 almost_perfect.py -> [Almost Perfect](https://open.kattis.com/problems/almostperfect)<br />
 grille.py -> [What's on the Grille?](https://open.kattis.com/problems/grille)<br />
-suspension_bridges.py -> [Suspension Bridges](https://open.kattis.com/problems/suspensionbridges)
+suspension_bridges.py -> [Suspension Bridges](https://open.kattis.com/problems/suspensionbridges)<br />
+closest_sums.py -> [Closest Sums](https://open.kattis.com/problems/closestsums)
