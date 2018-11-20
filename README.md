@@ -66,4 +66,5 @@ suspension_bridges.py -> [Suspension Bridges](https://open.kattis.com/problems/s
 closest_sums.py -> [Closest Sums](https://open.kattis.com/problems/closestsums)<br />
 cetiri.py -> [Cetiri](https://open.kattis.com/problems/cetiri)<br />
 brick_in_wall.py -> [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)<br />
-beehives.py -> [Beehives](https://open.kattis.com/problems/beehives)
+beehives.py -> [Beehives](https://open.kattis.com/problems/beehives)<br />
+booking.py -> [Booking a Room](https://open.kattis.com/problems/bookingaroom)
