@@ -65,4 +65,5 @@ grille.py -> [What's on the Grille?](https://open.kattis.com/problems/grille)<br
 suspension_bridges.py -> [Suspension Bridges](https://open.kattis.com/problems/suspensionbridges)<br />
 closest_sums.py -> [Closest Sums](https://open.kattis.com/problems/closestsums)<br />
 cetiri.py -> [Cetiri](https://open.kattis.com/problems/cetiri)<br />
-brick_in_wall.py -> [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)
+brick_in_wall.py -> [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)<br />
+beehives.py -> [Beehives](https://open.kattis.com/problems/beehives)
