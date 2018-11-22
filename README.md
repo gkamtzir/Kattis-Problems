@@ -68,4 +68,5 @@ cetiri.py -> [Cetiri](https://open.kattis.com/problems/cetiri)<br />
 brick_in_wall.py -> [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)<br />
 beehives.py -> [Beehives](https://open.kattis.com/problems/beehives)<br />
 booking.py -> [Booking a Room](https://open.kattis.com/problems/bookingaroom)<br />
-completing_square.py -> [Completing the Square](https://open.kattis.com/problems/completingthesquare)
+completing_square.py -> [Completing the Square](https://open.kattis.com/problems/completingthesquare)<br />
+friday_13.py -> [Friday the 13th](https://open.kattis.com/problems/friday)
