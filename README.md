@@ -69,4 +69,5 @@ brick_in_wall.py -> [Another Brick in the Wall](https://open.kattis.com/problems
 beehives.py -> [Beehives](https://open.kattis.com/problems/beehives)<br />
 booking.py -> [Booking a Room](https://open.kattis.com/problems/bookingaroom)<br />
 completing_square.py -> [Completing the Square](https://open.kattis.com/problems/completingthesquare)<br />
-friday_13.py -> [Friday the 13th](https://open.kattis.com/problems/friday)
+friday_13.py -> [Friday the 13th](https://open.kattis.com/problems/friday)<br />
+boss_battle.py -> [Boss Battle](https://open.kattis.com/problems/bossbattle)
