@@ -70,4 +70,5 @@ beehives.py -> [Beehives](https://open.kattis.com/problems/beehives)<br />
 booking.py -> [Booking a Room](https://open.kattis.com/problems/bookingaroom)<br />
 completing_square.py -> [Completing the Square](https://open.kattis.com/problems/completingthesquare)<br />
 friday_13.py -> [Friday the 13th](https://open.kattis.com/problems/friday)<br />
-boss_battle.py -> [Boss Battle](https://open.kattis.com/problems/bossbattle)
+boss_battle.py -> [Boss Battle](https://open.kattis.com/problems/bossbattle)<br />
+password_hacking.py -> [Password Hacking](https://open.kattis.com/problems/password)
