@@ -71,4 +71,5 @@ booking.py -> [Booking a Room](https://open.kattis.com/problems/bookingaroom)<br
 completing_square.py -> [Completing the Square](https://open.kattis.com/problems/completingthesquare)<br />
 friday_13.py -> [Friday the 13th](https://open.kattis.com/problems/friday)<br />
 boss_battle.py -> [Boss Battle](https://open.kattis.com/problems/bossbattle)<br />
-password_hacking.py -> [Password Hacking](https://open.kattis.com/problems/password)
+password_hacking.py -> [Password Hacking](https://open.kattis.com/problems/password)<br />
+splat.py -> [Splat](https://open.kattis.com/problems/splat)
