@@ -73,4 +73,5 @@ friday_13.py -> [Friday the 13th](https://open.kattis.com/problems/friday)<br />
 boss_battle.py -> [Boss Battle](https://open.kattis.com/problems/bossbattle)<br />
 password_hacking.py -> [Password Hacking](https://open.kattis.com/problems/password)<br />
 splat.py -> [Splat](https://open.kattis.com/problems/splat)<br />
-curse_the_darkness.py -> [Curse the Darkness](https://open.kattis.com/problems/cursethedarkness)
+curse_the_darkness.py -> [Curse the Darkness](https://open.kattis.com/problems/cursethedarkness)<br />
+beat_the_bread.py -> [Beat the Spread!](https://open.kattis.com/problems/beatspread)
