@@ -74,4 +74,5 @@ boss_battle.py -> [Boss Battle](https://open.kattis.com/problems/bossbattle)<br 
 password_hacking.py -> [Password Hacking](https://open.kattis.com/problems/password)<br />
 splat.py -> [Splat](https://open.kattis.com/problems/splat)<br />
 curse_the_darkness.py -> [Curse the Darkness](https://open.kattis.com/problems/cursethedarkness)<br />
-beat_the_bread.py -> [Beat the Spread!](https://open.kattis.com/problems/beatspread)
+beat_the_spread.py -> [Beat the Spread!](https://open.kattis.com/problems/beatspread)<br />
+texture_analysis.py -> [Texture Analysis](https://open.kattis.com/problems/textureanalysis)
