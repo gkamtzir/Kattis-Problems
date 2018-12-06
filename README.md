@@ -77,4 +77,5 @@ curse_the_darkness.py -> [Curse the Darkness](https://open.kattis.com/problems/c
 beat_the_spread.py -> [Beat the Spread!](https://open.kattis.com/problems/beatspread)<br />
 texture_analysis.py -> [Texture Analysis](https://open.kattis.com/problems/textureanalysis)<br />
 doorman.py -> [Doorman](https://open.kattis.com/problems/doorman)<br />
-semafori.py -> [Semafori](https://open.kattis.com/problems/semafori)
+semafori.py -> [Semafori](https://open.kattis.com/problems/semafori)<br />
+marko.py -> [Marko](https://open.kattis.com/problems/marko)
