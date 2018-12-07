@@ -78,4 +78,5 @@ beat_the_spread.py -> [Beat the Spread!](https://open.kattis.com/problems/beatsp
 texture_analysis.py -> [Texture Analysis](https://open.kattis.com/problems/textureanalysis)<br />
 doorman.py -> [Doorman](https://open.kattis.com/problems/doorman)<br />
 semafori.py -> [Semafori](https://open.kattis.com/problems/semafori)<br />
-marko.py -> [Marko](https://open.kattis.com/problems/marko)
+marko.py -> [Marko](https://open.kattis.com/problems/marko)<br />
+thanos_nxm.py -> [Thanos](https://open.kattis.com/problems/thanos)
