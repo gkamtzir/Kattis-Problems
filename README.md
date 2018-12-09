@@ -82,4 +82,5 @@ marko.py -> [Marko](https://open.kattis.com/problems/marko)<br />
 thanos_nxm.py -> [Thanos](https://open.kattis.com/problems/thanos)<br />
 thanos.py -> [Thanos](https://open.kattis.com/problems/thanos)<br />
 socks.py -> [Coloring Socks](https://open.kattis.com/problems/color)<br />
-heliocentric.py -> [Heliocentric](https://open.kattis.com/problems/heliocentric)
+heliocentric.py -> [Heliocentric](https://open.kattis.com/problems/heliocentric)<br />
+fast_food.py -> [Fast Food Prizes](https://open.kattis.com/problems/fastfood)
