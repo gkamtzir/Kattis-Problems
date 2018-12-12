@@ -84,4 +84,5 @@ thanos.py -> [Thanos](https://open.kattis.com/problems/thanos)<br />
 socks.py -> [Coloring Socks](https://open.kattis.com/problems/color)<br />
 heliocentric.py -> [Heliocentric](https://open.kattis.com/problems/heliocentric)<br />
 fast_food.py -> [Fast Food Prizes](https://open.kattis.com/problems/fastfood)<br />
-ornaments.py -> [Ornaments](https://open.kattis.com/problems/ornaments)
+ornaments.py -> [Ornaments](https://open.kattis.com/problems/ornaments)<br />
+bacon_eggs_spam.py -> [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam)
