@@ -86,4 +86,5 @@ heliocentric.py -> [Heliocentric](https://open.kattis.com/problems/heliocentric)
 fast_food.py -> [Fast Food Prizes](https://open.kattis.com/problems/fastfood)<br />
 ornaments.py -> [Ornaments](https://open.kattis.com/problems/ornaments)<br />
 bacon_eggs_spam.py -> [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam)<br />
-recount.py -> [Recount](https://open.kattis.com/problems/recount)
+recount.py -> [Recount](https://open.kattis.com/problems/recount)<br />
+warehouse.py -> [Warehouse](https://open.kattis.com/problems/warehouse)
