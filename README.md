@@ -87,4 +87,5 @@ fast_food.py -> [Fast Food Prizes](https://open.kattis.com/problems/fastfood)<br
 ornaments.py -> [Ornaments](https://open.kattis.com/problems/ornaments)<br />
 bacon_eggs_spam.py -> [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam)<br />
 recount.py -> [Recount](https://open.kattis.com/problems/recount)<br />
-warehouse.py -> [Warehouse](https://open.kattis.com/problems/warehouse)
+warehouse.py -> [Warehouse](https://open.kattis.com/problems/warehouse)<br />
+roll_call.py -> [Roll Call](https://open.kattis.com/problems/rollcall)
