@@ -89,4 +89,5 @@ bacon_eggs_spam.py -> [Bacon, Eggs, and Spam](https://open.kattis.com/problems/b
 recount.py -> [Recount](https://open.kattis.com/problems/recount)<br />
 warehouse.py -> [Warehouse](https://open.kattis.com/problems/warehouse)<br />
 roll_call.py -> [Roll Call](https://open.kattis.com/problems/rollcall)<br />
-rhyming_slang.py -> [Rhyming Slang](https://youtu.be/T5dJJGsQWtg?t=533)
+rhyming_slang.py -> [Rhyming Slang](https://open.kattis.com/problems/rhyming)<br />
+nimionese.py -> [Nimionese](https://open.kattis.com/problems/nimionese)
