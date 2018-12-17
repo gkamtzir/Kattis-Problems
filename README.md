@@ -90,4 +90,5 @@ recount.py -> [Recount](https://open.kattis.com/problems/recount)<br />
 warehouse.py -> [Warehouse](https://open.kattis.com/problems/warehouse)<br />
 roll_call.py -> [Roll Call](https://open.kattis.com/problems/rollcall)<br />
 rhyming_slang.py -> [Rhyming Slang](https://open.kattis.com/problems/rhyming)<br />
-nimionese.py -> [Nimionese](https://open.kattis.com/problems/nimionese)
+nimionese.py -> [Nimionese](https://open.kattis.com/problems/nimionese)<br />
+early_winter.py -> [Early Winter](https://open.kattis.com/problems/earlywinter)
