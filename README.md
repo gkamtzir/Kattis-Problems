@@ -94,4 +94,5 @@ nimionese.py -> [Nimionese](https://open.kattis.com/problems/nimionese)<br />
 early_winter.py -> [Early Winter](https://open.kattis.com/problems/earlywinter)<br />
 cooking_water.py -> [Cooking Water](https://open.kattis.com/problems/cookingwater)<br />
 secret_message.py -> [Secret Message](https://open.kattis.com/problems/secretmessage)<br />
-babelfish.py -> [Babelfish](https://open.kattis.com/problems/babelfish)
+babelfish.py -> [Babelfish](https://open.kattis.com/problems/babelfish)<br />
+pizza_crust.py -> (Pizza Crust)[https://open.kattis.com/problems/pizza2]
