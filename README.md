@@ -93,4 +93,5 @@ rhyming_slang.py -> [Rhyming Slang](https://open.kattis.com/problems/rhyming)<br
 nimionese.py -> [Nimionese](https://open.kattis.com/problems/nimionese)<br />
 early_winter.py -> [Early Winter](https://open.kattis.com/problems/earlywinter)<br />
 cooking_water.py -> [Cooking Water](https://open.kattis.com/problems/cookingwater)<br />
-secret_message.py -> [Secret Message](https://open.kattis.com/problems/secretmessage)
+secret_message.py -> [Secret Message](https://open.kattis.com/problems/secretmessage)<br />
+babelfish.py -> [Babelfish](https://open.kattis.com/problems/babelfish)
