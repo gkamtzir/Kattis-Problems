@@ -95,4 +95,5 @@ early_winter.py -> [Early Winter](https://open.kattis.com/problems/earlywinter)<
 cooking_water.py -> [Cooking Water](https://open.kattis.com/problems/cookingwater)<br />
 secret_message.py -> [Secret Message](https://open.kattis.com/problems/secretmessage)<br />
 babelfish.py -> [Babelfish](https://open.kattis.com/problems/babelfish)<br />
-pizza_crust.py -> [Pizza Crust](https://open.kattis.com/problems/pizza2)
+pizza_crust.py -> [Pizza Crust](https://open.kattis.com/problems/pizza2)<br />
+toilet_seat.py -> [Toilet Seat](https://open.kattis.com/problems/toilet)
