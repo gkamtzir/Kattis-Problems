@@ -97,4 +97,5 @@ secret_message.py -> [Secret Message](https://open.kattis.com/problems/secretmes
 babelfish.py -> [Babelfish](https://open.kattis.com/problems/babelfish)<br />
 pizza_crust.py -> [Pizza Crust](https://open.kattis.com/problems/pizza2)<br />
 toilet_seat.py -> [Toilet Seat](https://open.kattis.com/problems/toilet)<br />
-fox.py -> [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay)
+fox.py -> [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay)<br />
+engineering_english.py -> [Engineering English](https://open.kattis.com/problems/engineeringenglish)
