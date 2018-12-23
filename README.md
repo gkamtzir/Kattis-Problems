@@ -96,4 +96,5 @@ cooking_water.py -> [Cooking Water](https://open.kattis.com/problems/cookingwate
 secret_message.py -> [Secret Message](https://open.kattis.com/problems/secretmessage)<br />
 babelfish.py -> [Babelfish](https://open.kattis.com/problems/babelfish)<br />
 pizza_crust.py -> [Pizza Crust](https://open.kattis.com/problems/pizza2)<br />
-toilet_seat.py -> [Toilet Seat](https://open.kattis.com/problems/toilet)
+toilet_seat.py -> [Toilet Seat](https://open.kattis.com/problems/toilet)<br />
+fox.py -> [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay)
