@@ -93,4 +93,12 @@ rhyming_slang.py -> [Rhyming Slang](https://open.kattis.com/problems/rhyming)<br
 nimionese.py -> [Nimionese](https://open.kattis.com/problems/nimionese)<br />
 early_winter.py -> [Early Winter](https://open.kattis.com/problems/earlywinter)<br />
 cooking_water.py -> [Cooking Water](https://open.kattis.com/problems/cookingwater)<br />
+secret_message.py -> [Secret Message](https://open.kattis.com/problems/secretmessage)<br />
+babelfish.py -> [Babelfish](https://open.kattis.com/problems/babelfish)<br />
+pizza_crust.py -> [Pizza Crust](https://open.kattis.com/problems/pizza2)<br />
+toilet_seat.py -> [Toilet Seat](https://open.kattis.com/problems/toilet)<br />
+fox.py -> [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay)<br />
+engineering_english.py -> [Engineering English](https://open.kattis.com/problems/engineeringenglish)<br />
+popular_vote.py -> [Popular Vote](https://open.kattis.com/problems/vote)<br />
+yoda.py -> [Yoda](https://open.kattis.com/problems/yoda)
 half_cookie.py -> [Half a Cookie](https://open.kattis.com/problems/halfacookie)
