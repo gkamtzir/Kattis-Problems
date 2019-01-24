@@ -101,4 +101,5 @@ fox.py -> [What does the fox say?](https://open.kattis.com/problems/whatdoesthef
 engineering_english.py -> [Engineering English](https://open.kattis.com/problems/engineeringenglish)<br />
 popular_vote.py -> [Popular Vote](https://open.kattis.com/problems/vote)<br />
 yoda.py -> [Yoda](https://open.kattis.com/problems/yoda)
-half_cookie.py -> [Half a Cookie](https://open.kattis.com/problems/halfacookie)
+half_cookie.py -> [Half a Cookie](https://open.kattis.com/problems/halfacookie)<br />
+rejeci.py -> [Riječi](https://open.kattis.com/problems/rijeci)
