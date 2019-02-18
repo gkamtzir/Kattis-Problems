@@ -102,4 +102,5 @@ engineering_english.py -> [Engineering English](https://open.kattis.com/problems
 popular_vote.py -> [Popular Vote](https://open.kattis.com/problems/vote)<br />
 yoda.py -> [Yoda](https://open.kattis.com/problems/yoda)
 half_cookie.py -> [Half a Cookie](https://open.kattis.com/problems/halfacookie)<br />
-rejeci.py -> [Riječi](https://open.kattis.com/problems/rijeci)
+rejeci.py -> [Riječi](https://open.kattis.com/problems/rijeci)<br />
+GuessTheNumber.cpp -> [Guess The Number](https://open.kattis.com/problems/guess)
