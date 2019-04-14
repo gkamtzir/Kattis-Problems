@@ -106,4 +106,5 @@ rejeci.py -> [Riječi](https://open.kattis.com/problems/rijeci)<br />
 GuessTheNumber.cpp -> [Guess The Number](https://open.kattis.com/problems/guess)<br />
 SimonSays.cpp -> [Simon Says](https://open.kattis.com/problems/simon)<br />
 BusySchedule.cpp -> [Busy Schedule](https://open.kattis.com/problems/busyschedule)<br />
-Simplicity.cpp -> [Simplicity](https://open.kattis.com/problems/simplicity)
+Simplicity.cpp -> [Simplicity](https://open.kattis.com/problems/simplicity)<br />
+disastrous_downtime.py -> [Disastrous Downtime](https://open.kattis.com/problems/downtime)
