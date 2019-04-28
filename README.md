@@ -107,4 +107,5 @@ GuessTheNumber.cpp -> [Guess The Number](https://open.kattis.com/problems/guess)
 SimonSays.cpp -> [Simon Says](https://open.kattis.com/problems/simon)<br />
 BusySchedule.cpp -> [Busy Schedule](https://open.kattis.com/problems/busyschedule)<br />
 Simplicity.cpp -> [Simplicity](https://open.kattis.com/problems/simplicity)<br />
-disastrous_downtime.py -> [Disastrous Downtime](https://open.kattis.com/problems/downtime)
+disastrous_downtime.py -> [Disastrous Downtime](https://open.kattis.com/problems/downtime)<br />
+maptiles2.py -> [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2)
