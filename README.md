@@ -109,4 +109,5 @@ BusySchedule.cpp -> [Busy Schedule](https://open.kattis.com/problems/busyschedul
 Simplicity.cpp -> [Simplicity](https://open.kattis.com/problems/simplicity)<br />
 disastrous_downtime.py -> [Disastrous Downtime](https://open.kattis.com/problems/downtime)<br />
 maptiles2.py -> [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2)<br />
-janitor_troubles.py -> [Janitor Troubles](https://open.kattis.com/problems/janitortroubles)
+janitor_troubles.py -> [Janitor Troubles](https://open.kattis.com/problems/janitortroubles)<br />
+server.py -> [Server](https://open.kattis.com/problems/server)
