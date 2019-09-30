@@ -111,4 +111,5 @@ disastrous_downtime.py -> [Disastrous Downtime](https://open.kattis.com/problems
 maptiles2.py -> [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2)<br />
 janitor_troubles.py -> [Janitor Troubles](https://open.kattis.com/problems/janitortroubles)<br />
 server.py -> [Server](https://open.kattis.com/problems/server)<br />
-pivot.py -> [Pivot](https://open.kattis.com/problems/pivot)
+pivot.py -> [Pivot](https://open.kattis.com/problems/pivot)<br />
+alien_numbers.py -> [Alien Numbers](https://open.kattis.com/problems/aliennumbers)
