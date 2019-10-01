@@ -112,4 +112,5 @@ maptiles2.py -> [Identifying Map Tiles](https://open.kattis.com/problems/maptile
 janitor_troubles.py -> [Janitor Troubles](https://open.kattis.com/problems/janitortroubles)<br />
 server.py -> [Server](https://open.kattis.com/problems/server)<br />
 pivot.py -> [Pivot](https://open.kattis.com/problems/pivot)<br />
-alien_numbers.py -> [Alien Numbers](https://open.kattis.com/problems/aliennumbers)
+alien_numbers.py -> [Alien Numbers](https://open.kattis.com/problems/aliennumbers)<br />
+bus_numbers_2.py -> [Bus Numbers](https://open.kattis.com/problems/busnumbers)
