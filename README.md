@@ -114,4 +114,5 @@ server.py -> [Server](https://open.kattis.com/problems/server)<br />
 pivot.py -> [Pivot](https://open.kattis.com/problems/pivot)<br />
 alien_numbers.py -> [Alien Numbers](https://open.kattis.com/problems/aliennumbers)<br />
 bus_numbers_2.py -> [Bus Numbers](https://open.kattis.com/problems/busnumbers)<br />
-drivers_dilemma.py -> [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma)
+drivers_dilemma.py -> [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma)<br />
+genetic_search.py -> [Genetic Search](https://open.kattis.com/problems/geneticsearch)
