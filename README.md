@@ -118,4 +118,5 @@ drivers_dilemma.py -> [Driver's Dilemma](https://open.kattis.com/problems/driver
 genetic_search.py -> [Genetic Search](https://open.kattis.com/problems/geneticsearch)<br />
 getting_gold.py -> [Getting Gold](https://open.kattis.com/problems/gold)<br />
 hay_points.py -> [Hay Points](https://open.kattis.com/problems/haypoints)<br />
-growling_gears.py -> [Growling Gears](https://open.kattis.com/problems/growlinggears)
+growling_gears.py -> [Growling Gears](https://open.kattis.com/problems/growlinggears)<br />
+hardwood_species.py -> [Hardwood Species](https://open.kattis.com/problems/hardwoodspecies)
