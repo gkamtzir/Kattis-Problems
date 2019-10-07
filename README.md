@@ -117,4 +117,5 @@ bus_numbers_2.py -> [Bus Numbers](https://open.kattis.com/problems/busnumbers)<b
 drivers_dilemma.py -> [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma)<br />
 genetic_search.py -> [Genetic Search](https://open.kattis.com/problems/geneticsearch)<br />
 getting_gold.py -> [Getting Gold](https://open.kattis.com/problems/gold)<br />
-hay_points.py -> [Hay Points](https://open.kattis.com/problems/haypoints)
+hay_points.py -> [Hay Points](https://open.kattis.com/problems/haypoints)<br />
+growling_gears.py -> [Growling Gears](https://open.kattis.com/problems/growlinggears)
