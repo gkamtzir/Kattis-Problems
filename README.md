@@ -120,4 +120,5 @@ getting_gold.py -> [Getting Gold](https://open.kattis.com/problems/gold)<br />
 hay_points.py -> [Hay Points](https://open.kattis.com/problems/haypoints)<br />
 growling_gears.py -> [Growling Gears](https://open.kattis.com/problems/growlinggears)<br />
 hardwood_species.py -> [Hardwood Species](https://open.kattis.com/problems/hardwoodspecies)<br />
-hidden_password.py -> [Hidden Password](https://open.kattis.com/problems/hidden)
+hidden_password.py -> [Hidden Password](https://open.kattis.com/problems/hidden)<br />
+espresso_bucks.py -> [Espresso Bucks](https://open.kattis.com/problems/espressobucks)
