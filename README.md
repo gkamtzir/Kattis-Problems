@@ -122,4 +122,5 @@ growling_gears.py -> [Growling Gears](https://open.kattis.com/problems/growlingg
 hardwood_species.py -> [Hardwood Species](https://open.kattis.com/problems/hardwoodspecies)<br />
 hidden_password.py -> [Hidden Password](https://open.kattis.com/problems/hidden)<br />
 espresso_bucks.py -> [Espresso Bucks](https://open.kattis.com/problems/espressobucks)<br />
-bits.py -> [Bits](https://open.kattis.com/problems/bits)
+bits.py -> [Bits](https://open.kattis.com/problems/bits)<br />
+ragged_right.py -> [Ragged Right](https://open.kattis.com/problems/raggedright)
