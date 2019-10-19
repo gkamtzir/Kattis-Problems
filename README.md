@@ -124,4 +124,5 @@ hidden_password.py -> [Hidden Password](https://open.kattis.com/problems/hidden)
 espresso_bucks.py -> [Espresso Bucks](https://open.kattis.com/problems/espressobucks)<br />
 bits.py -> [Bits](https://open.kattis.com/problems/bits)<br />
 ragged_right.py -> [Ragged Right](https://open.kattis.com/problems/raggedright)<br />
-sort_of_sorting.py -> [Sort of Sorting](https://open.kattis.com/problems/sortofsorting)
+sort_of_sorting.py -> [Sort of Sorting](https://open.kattis.com/problems/sortofsorting)<br />
+not_amused.py -> [Not Amused](https://open.kattis.com/problems/notamused)
