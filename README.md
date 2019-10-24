@@ -128,4 +128,5 @@ sort_of_sorting.py -> [Sort of Sorting](https://open.kattis.com/problems/sortofs
 not_amused.py -> [Not Amused](https://open.kattis.com/problems/notamused)<br />
 saving_daylight.py -> [Saving Daylight](https://open.kattis.com/problems/savingdaylight)<br />
 glitch_bot.py -> [Glitch Bot](https://open.kattis.com/problems/glitchbot)<br />
-sort.py -> [Sort](https://open.kattis.com/problems/sort)
+sort.py -> [Sort](https://open.kattis.com/problems/sort)<br />
+best_relay_team.py -> [Best Relay Team](https://open.kattis.com/problems/bestrelayteam)
