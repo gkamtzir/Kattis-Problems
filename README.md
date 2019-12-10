@@ -131,4 +131,5 @@ glitch_bot.py -> [Glitch Bot](https://open.kattis.com/problems/glitchbot)<br />
 sort.py -> [Sort](https://open.kattis.com/problems/sort)<br />
 best_relay_team.py -> [Best Relay Team](https://open.kattis.com/problems/bestrelayteam)<br />
 quite_a_problem.py -> [Quite a Problem](https://open.kattis.com/problems/quiteaproblem)<br />
-secure_doors.py -> [Secure Doors](https://open.kattis.com/problems/securedoors)
+secure_doors.py -> [Secure Doors](https://open.kattis.com/problems/securedoors)<br />
+imperial_measurements.py -> [Imperial Measurements](https://open.kattis.com/problems/measurement)
