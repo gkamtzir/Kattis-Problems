@@ -134,5 +134,6 @@ quite_a_problem.py -> [Quite a Problem](https://open.kattis.com/problems/quiteap
 secure_doors.py -> [Secure Doors](https://open.kattis.com/problems/securedoors)<br />
 exam.py -> [Exam](https://open.kattis.com/problems/exam)<br />
 imperial_measurements.py -> [Imperial Measurements](https://open.kattis.com/problems/measurement)<br />
-help_phd.py -> [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)
+help_phd.py -> [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)<br />
+ladder.py -> [Ladder](https://open.kattis.com/problems/ladder)
 
