@@ -138,5 +138,7 @@ help_phd.py -> [Help a PhD candidate out!](https://open.kattis.com/problems/help
 left_beehind.py -> [Left Beehind](https://open.kattis.com/problems/leftbeehind)<br />
 ladder.py -> [Ladder](https://open.kattis.com/problems/ladder)<br />
 parking.py -> [Parking](https://open.kattis.com/problems/parking)<br />
+words_of_numbers.py -> [Words of Numbers](https://open.kattis.com/problems/wordsfornumbers)<br />
 happy_happy_prime_prime.py -> [Happy Happy Prime Prime](https://open.kattis.com/problems/happyprime)
+
 
