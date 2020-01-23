@@ -141,7 +141,8 @@ parking.py -> [Parking](https://open.kattis.com/problems/parking)<br />
 words_of_numbers.py -> [Words of Numbers](https://open.kattis.com/problems/wordsfornumbers)<br />
 happy_happy_prime_prime.py -> [Happy Happy Prime Prime](https://open.kattis.com/problems/happyprime)<br />
 mars_window.py -> [Mars Window](https://open.kattis.com/problems/marswindow)<br />
-conformity.py -> [Conformity](https://open.kattis.com/problems/conformity)
+conformity.py -> [Conformity](https://open.kattis.com/problems/conformity)<br />
+exactly_electrical.py -> [Exactly Electrical](https://open.kattis.com/problems/exactlyelectrical)
 
 
 
