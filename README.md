@@ -143,7 +143,8 @@ happy_happy_prime_prime.py -> [Happy Happy Prime Prime](https://open.kattis.com/
 mars_window.py -> [Mars Window](https://open.kattis.com/problems/marswindow)<br />
 conformity.py -> [Conformity](https://open.kattis.com/problems/conformity)<br />
 exactly_electrical.py -> [Exactly Electrical](https://open.kattis.com/problems/exactlyelectrical)<br />
-jabuke.py -> [Jabuke](https://open.kattis.com/problems/jabuke)
+jabuke.py -> [Jabuke](https://open.kattis.com/problems/jabuke)<br />
+drinking_song.py -> [Drinking Song](https://open.kattis.com/problems/drinkingsong)
 
 
 
