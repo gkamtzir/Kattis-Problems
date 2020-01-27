@@ -144,7 +144,8 @@ mars_window.py -> [Mars Window](https://open.kattis.com/problems/marswindow)<br 
 conformity.py -> [Conformity](https://open.kattis.com/problems/conformity)<br />
 exactly_electrical.py -> [Exactly Electrical](https://open.kattis.com/problems/exactlyelectrical)<br />
 jabuke.py -> [Jabuke](https://open.kattis.com/problems/jabuke)<br />
-drinking_song.py -> [Drinking Song](https://open.kattis.com/problems/drinkingsong)
+drinking_song.py -> [Drinking Song](https://open.kattis.com/problems/drinkingsong)<br />
+height_ordering.py -> [Height Ordering](https://open.kattis.com/problems/height)
 
 
 
