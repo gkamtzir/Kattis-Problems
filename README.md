@@ -147,7 +147,8 @@ jabuke.py -> [Jabuke](https://open.kattis.com/problems/jabuke)<br />
 drinking_song.py -> [Drinking Song](https://open.kattis.com/problems/drinkingsong)<br />
 height_ordering.py -> [Height Ordering](https://open.kattis.com/problems/height)<br />
 printing_costs.py -> [Printing Costs](https://open.kattis.com/problems/printingcosts)<br />
-charting_progress.py -> [Charting Progress](https://open.kattis.com/problems/chartingprogress)
+charting_progress.py -> [Charting Progress](https://open.kattis.com/problems/chartingprogress)<br />
+variable_arithmetic.py -> [Variable Arithmetic](https://open.kattis.com/problems/variablearithmetic)
 
 
 
