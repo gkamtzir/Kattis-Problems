@@ -149,7 +149,8 @@ height_ordering.py -> [Height Ordering](https://open.kattis.com/problems/height)
 printing_costs.py -> [Printing Costs](https://open.kattis.com/problems/printingcosts)<br />
 charting_progress.py -> [Charting Progress](https://open.kattis.com/problems/chartingprogress)<br />
 variable_arithmetic.py -> [Variable Arithmetic](https://open.kattis.com/problems/variablearithmetic)<br />
-human_cannonball_run.py -> [Human Cannonball Run](https://open.kattis.com/problems/humancannonball)
+human_cannonball_run.py -> [Human Cannonball Run](https://open.kattis.com/problems/humancannonball)<br />
+cu_chi_tunnels.py -> [Cu Chi Tunnels](https://open.kattis.com/problems/cuchitunnels)
 
 
 
