@@ -150,7 +150,8 @@ printing_costs.py -> [Printing Costs](https://open.kattis.com/problems/printingc
 charting_progress.py -> [Charting Progress](https://open.kattis.com/problems/chartingprogress)<br />
 variable_arithmetic.py -> [Variable Arithmetic](https://open.kattis.com/problems/variablearithmetic)<br />
 human_cannonball_run.py -> [Human Cannonball Run](https://open.kattis.com/problems/humancannonball)<br />
-cu_chi_tunnels.py -> [Cu Chi Tunnels](https://open.kattis.com/problems/cuchitunnels)
+cu_chi_tunnels.py -> [Cu Chi Tunnels](https://open.kattis.com/problems/cuchitunnels)<br />
+stacking_cups.py -> [Stacking Cups](https://open.kattis.com/problems/cups)
 
 
 
