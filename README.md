@@ -151,7 +151,8 @@ charting_progress.py -> [Charting Progress](https://open.kattis.com/problems/cha
 variable_arithmetic.py -> [Variable Arithmetic](https://open.kattis.com/problems/variablearithmetic)<br />
 human_cannonball_run.py -> [Human Cannonball Run](https://open.kattis.com/problems/humancannonball)<br />
 cu_chi_tunnels.py -> [Cu Chi Tunnels](https://open.kattis.com/problems/cuchitunnels)<br />
-stacking_cups.py -> [Stacking Cups](https://open.kattis.com/problems/cups)
+stacking_cups.py -> [Stacking Cups](https://open.kattis.com/problems/cups)<br />
+hitting_the_targets.py -> [Hitting the Targets](https://open.kattis.com/problems/hittingtargets)
 
 
 
