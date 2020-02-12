@@ -8,8 +8,6 @@ previous = 0
 factor = 1
 
 for timestamp in t:
-    print(previous)
-    print(timestamp)
     seconds = timestamp - previous
     seconds_sum += seconds
     result += seconds * factor
