@@ -154,7 +154,8 @@ cu_chi_tunnels.py -> [Cu Chi Tunnels](https://open.kattis.com/problems/cuchitunn
 stacking_cups.py -> [Stacking Cups](https://open.kattis.com/problems/cups)<br />
 hitting_the_targets.py -> [Hitting the Targets](https://open.kattis.com/problems/hittingtargets)<br />
 custome_contest.py -> [Custome Contest](https://open.kattis.com/problems/costumecontest)<br />
-convex_polygon_area.py -> [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea)
+convex_polygon_area.py -> [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea)<br />
+video_speedup.py -> [Video Speedup](https://open.kattis.com/problems/videospeedup)
 
 
 
