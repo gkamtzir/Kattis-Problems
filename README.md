@@ -156,7 +156,8 @@ hitting_the_targets.py -> [Hitting the Targets](https://open.kattis.com/problems
 custome_contest.py -> [Custome Contest](https://open.kattis.com/problems/costumecontest)<br />
 convex_polygon_area.py -> [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea)<br />
 video_speedup.py -> [Video Speedup](https://open.kattis.com/problems/videospeedup)<br />
-metaprogramming.py -> [Metaprogramming](https://open.kattis.com/problems/metaprogramming)
+metaprogramming.py -> [Metaprogramming](https://open.kattis.com/problems/metaprogramming)<br />
+frosh_week.py -> [Frosh Week](https://open.kattis.com/problems/froshweek2)
 
 
 
