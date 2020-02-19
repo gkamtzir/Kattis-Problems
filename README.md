@@ -159,7 +159,8 @@ video_speedup.py -> [Video Speedup](https://open.kattis.com/problems/videospeedu
 metaprogramming.py -> [Metaprogramming](https://open.kattis.com/problems/metaprogramming)<br />
 frosh_week.py -> [Frosh Week](https://open.kattis.com/problems/froshweek2)<br />
 election.py -> [Election](https://open.kattis.com/problems/election2)<br />
-shopaholic.py -> [Shopaholic](https://open.kattis.com/problems/shopaholic)
+shopaholic.py -> [Shopaholic](https://open.kattis.com/problems/shopaholic)<br />
+dunglish.py -> [Dunglish](https://open.kattis.com/problems/dunglish)
 
 
 
