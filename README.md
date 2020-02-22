@@ -160,7 +160,8 @@ metaprogramming.py -> [Metaprogramming](https://open.kattis.com/problems/metapro
 frosh_week.py -> [Frosh Week](https://open.kattis.com/problems/froshweek2)<br />
 election.py -> [Election](https://open.kattis.com/problems/election2)<br />
 shopaholic.py -> [Shopaholic](https://open.kattis.com/problems/shopaholic)<br />
-dunglish.py -> [Dunglish](https://open.kattis.com/problems/dunglish)
+dunglish.py -> [Dunglish](https://open.kattis.com/problems/dunglish)<br />
+keep_it_cool.py -> [Keep it Cool](https://open.kattis.com/problems/keepitcool)
 
 
 
