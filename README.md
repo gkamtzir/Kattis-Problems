@@ -162,7 +162,8 @@ election.py -> [Election](https://open.kattis.com/problems/election2)<br />
 shopaholic.py -> [Shopaholic](https://open.kattis.com/problems/shopaholic)<br />
 dunglish.py -> [Dunglish](https://open.kattis.com/problems/dunglish)<br />
 keep_it_cool.py -> [Keep it Cool](https://open.kattis.com/problems/keepitcool)<br />
-good_morning.py -> [Good Morning](https://open.kattis.com/problems/goodmorning)
+good_morning.py -> [Good Morning](https://open.kattis.com/problems/goodmorning)<br />
+repeating_decimal.py -> [Repeating Decimal](https://open.kattis.com/problems/repeatingdecimal)
 
 
 
