@@ -166,7 +166,8 @@ good_morning.py -> [Good Morning](https://open.kattis.com/problems/goodmorning)<
 repeating_decimal.py -> [Repeating Decimal](https://open.kattis.com/problems/repeatingdecimal)<br />
 last_factorial_digit.py -> [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)<br />
 pet.py -> [Pet](https://open.kattis.com/problems/pet)<br />
-drm_messages.py -> [DRM Messages](https://open.kattis.com/problems/drmmessages)
+drm_messages.py -> [DRM Messages](https://open.kattis.com/problems/drmmessages)<br />
+beekeeper.py -> [Beekeeper](https://open.kattis.com/problems/beekeeper)
 
 
 
