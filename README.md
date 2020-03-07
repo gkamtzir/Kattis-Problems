@@ -1,5 +1,7 @@
 ## Kattis Problems
 
+These are some of the competitive programming problems I have solved on [Kattis](open.kattis.com).
+
 run_length_encoding.py -> [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun)<br />
 reverseRot.py -> [Reverse Rot](https://open.kattis.com/problems/reverserot)<br />
 sibice.py -> [Sibice](https://open.kattis.com/problems/sibice)<br />
