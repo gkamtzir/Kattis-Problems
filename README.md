@@ -170,7 +170,8 @@ last_factorial_digit.py -> [Last Factorial Digit](https://open.kattis.com/proble
 pet.py -> [Pet](https://open.kattis.com/problems/pet)<br />
 drm_messages.py -> [DRM Messages](https://open.kattis.com/problems/drmmessages)<br />
 beekeeper.py -> [Beekeeper](https://open.kattis.com/problems/beekeeper)<br />
-text_encryption.py -> [Text Encryption](https://open.kattis.com/problems/textencryption)
+text_encryption.py -> [Text Encryption](https://open.kattis.com/problems/textencryption)<br />
+phone_list.py -> [Phone List](https://open.kattis.com/problems/phonelist)
 
 
 
