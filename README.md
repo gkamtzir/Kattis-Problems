@@ -173,7 +173,8 @@ beekeeper.py -> [Beekeeper](https://open.kattis.com/problems/beekeeper)<br />
 text_encryption.py -> [Text Encryption](https://open.kattis.com/problems/textencryption)<br />
 phone_list.py -> [Phone List](https://open.kattis.com/problems/phonelist)<br />
 flow_layout.py -> [Flow Layout](https://open.kattis.com/problems/flowlayout)<br />
-combination_lock.py -> [Combination Lock](https://open.kattis.com/problems/combinationlock)
+combination_lock.py -> [Combination Lock](https://open.kattis.com/problems/combinationlock)<br />
+dragon_loowater.py -> [The Dragon of Loowater](https://open.kattis.com/problems/loowater)
 
 
 
