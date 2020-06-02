@@ -174,7 +174,8 @@ text_encryption.py -> [Text Encryption](https://open.kattis.com/problems/textenc
 phone_list.py -> [Phone List](https://open.kattis.com/problems/phonelist)<br />
 flow_layout.py -> [Flow Layout](https://open.kattis.com/problems/flowlayout)<br />
 combination_lock.py -> [Combination Lock](https://open.kattis.com/problems/combinationlock)<br />
-dragon_loowater.py -> [The Dragon of Loowater](https://open.kattis.com/problems/loowater)
+dragon_loowater.py -> [The Dragon of Loowater](https://open.kattis.com/problems/loowater)<br />
+conversation_log.py -> [Conversation Log](https://open.kattis.com/problems/conversationlog)
 
 
 
