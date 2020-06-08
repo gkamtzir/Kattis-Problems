@@ -176,7 +176,8 @@ flow_layout.py -> [Flow Layout](https://open.kattis.com/problems/flowlayout)<br 
 combination_lock.py -> [Combination Lock](https://open.kattis.com/problems/combinationlock)<br />
 dragon_loowater.py -> [The Dragon of Loowater](https://open.kattis.com/problems/loowater)<br />
 conversation_log.py -> [Conversation Log](https://open.kattis.com/problems/conversationlog)<br />
-shiritori.py -> [Shiritori](https://open.kattis.com/problems/shiritori)
+shiritori.py -> [Shiritori](https://open.kattis.com/problems/shiritori)<br />
+all_different_directions.py -> [All Different Directions](https://open.kattis.com/problems/alldifferentdirections)
 
 
 
