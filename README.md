@@ -177,7 +177,8 @@ combination_lock.py -> [Combination Lock](https://open.kattis.com/problems/combi
 dragon_loowater.py -> [The Dragon of Loowater](https://open.kattis.com/problems/loowater)<br />
 conversation_log.py -> [Conversation Log](https://open.kattis.com/problems/conversationlog)<br />
 shiritori.py -> [Shiritori](https://open.kattis.com/problems/shiritori)<br />
-all_different_directions.py -> [All Different Directions](https://open.kattis.com/problems/alldifferentdirections)
+all_different_directions.py -> [All Different Directions](https://open.kattis.com/problems/alldifferentdirections)<br />
+are_you_listening.py -> [Are you Listening?](https://open.kattis.com/problems/areyoulistening)
 
 
 
