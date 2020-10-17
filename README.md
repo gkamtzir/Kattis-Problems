@@ -179,7 +179,8 @@ conversation_log.py -> [Conversation Log](https://open.kattis.com/problems/conve
 shiritori.py -> [Shiritori](https://open.kattis.com/problems/shiritori)<br />
 all_different_directions.py -> [All Different Directions](https://open.kattis.com/problems/alldifferentdirections)<br />
 are_you_listening.py -> [Are you Listening?](https://open.kattis.com/problems/areyoulistening)<br />
-soft_passwords.py -> [Soft Passwords](https://open.kattis.com/problems/softpasswords)
+soft_passwords.py -> [Soft Passwords](https://open.kattis.com/problems/softpasswords)<br />
+compass.py -> [Compass](https://open.kattis.com/problems/compass)
 
 
 
